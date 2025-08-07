@@ -24,4 +24,4 @@ run: init
 		--env-file ./config/.env\
 		-v ./config:/config \
 		-v $(APP_DIR):/app \
-		paulgauthier/aider-full:v0.83.1 aider --config /config/.aider.conf.yml
+		paulgauthier/aider-full:v0.85.2 aider --config /config/.aider.conf.yml
