@@ -32,3 +32,4 @@ make run
 
 - `/ask` - ask questions about the code base without editing any files
 - `/add` - add files to the chat so aider can edit them or review them in detail
+- `/read-only` - add files to the chat that are for reference only, or turn added files to read-only
