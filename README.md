@@ -27,3 +27,8 @@ cd aider-docker
 make gen # Press enter to set the default values
 make run
 ```
+
+### Tips
+
+- `/ask` - ask questions about the code base without editing any files
+- `/add` - add files to the chat so aider can edit them or review them in detail
